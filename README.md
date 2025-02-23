@@ -12,11 +12,4 @@ Each lab includes:
 - 📷 Screenshots & incident investigation steps
 - 📝 Write-ups detailing security strategies
 
-## Getting Started
-Clone the repository and navigate to any lab:
-```bash
-git clone https://github.com/yourusername/cloud-security-labs.git
-cd cloud-security-labs/AWS-Security-Hub-GuardDuty/
-terraform init
-terraform apply -auto-approve
 
